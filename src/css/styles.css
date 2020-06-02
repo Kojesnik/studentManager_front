@@ -1,0 +1,9 @@
+.showExemptedButton {
+    margin-left: 20px;
+}
+
+.students {
+    height: 600px;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
